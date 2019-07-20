@@ -1,0 +1,8 @@
+logs/*
+weights/*
+convolutional_spectrogram/logs/*
+.ipynb_checkpoints/*
+*.mseed
+*.hdf5
+*.BIGKAHUNA
+*.xml
