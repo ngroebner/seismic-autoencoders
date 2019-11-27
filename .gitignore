@@ -2,6 +2,7 @@ logs/*
 weights/*
 convolutional_spectrogram/logs/*
 .ipynb_checkpoints/*
+.vscode/*
 *.mseed
 *.hdf5
 *.BIGKAHUNA
