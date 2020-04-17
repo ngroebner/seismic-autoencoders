@@ -1,0 +1,8 @@
+cluster_assignments,stfs,Count
+0,boxcar,559
+0,triangle,90
+1,boxcar,1198
+1,lognorm,2000
+1,triangle,964
+2,boxcar,243
+2,triangle,946

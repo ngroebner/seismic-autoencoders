@@ -1,0 +1,7 @@
+cluster_assignments,source_mechanisms,Count
+0,CLVD,659
+0,DC,981
+1,CLVD,14
+1,Isotropic,2000
+2,CLVD,1327
+2,DC,1019
