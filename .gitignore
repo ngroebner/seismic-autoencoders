@@ -7,3 +7,4 @@ convolutional_spectrogram/logs/*
 *.hdf5
 *.BIGKAHUNA
 *.xml
+.DS_Store
